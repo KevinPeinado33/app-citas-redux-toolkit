@@ -1,0 +1,34 @@
+{
+    "citas":[
+        {
+            "id": 1,
+            "doctor":"Chespirito",
+            "paciente":"Batman",
+            "estado": true
+        },
+        {
+            "id": 2,
+            "doctor":"Chespirito",
+            "paciente":"Robin",
+            "estado": true
+        },
+        {
+            "id": 3,
+            "doctor":"Chespirito",
+            "paciente":"Super man",
+            "estado": true
+        },
+        {
+            "id": 4,
+            "doctor":"Chespirito",
+            "paciente":"Tu vieja",
+            "estado": true
+        },
+        {
+            "id": 5,
+            "doctor":"Chespirito",
+            "paciente":"Kevin Peinado",
+            "estado": false
+        }
+    ]
+}

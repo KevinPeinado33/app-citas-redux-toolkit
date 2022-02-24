@@ -1,0 +1,40 @@
+{
+  "citas": [
+    {
+      "id": 1,
+      "doctor": "Chapatin",
+      "paciente": "kevin",
+      "estado": true
+    },
+    {
+      "id": 2,
+      "doctor": "Chapatin",
+      "paciente": "raul",
+      "estado": true
+    },
+    {
+      "id": 3,
+      "doctor": "Chapatin",
+      "paciente": "peinado",
+      "estado": true
+    },
+    {
+      "id": 4,
+      "doctor": "Chapatin",
+      "paciente": "leiva",
+      "estado": false
+    },
+    {
+      "id": 5,
+      "doctor": "batman",
+      "paciente": "robin",
+      "estado": true
+    },
+    {
+      "id": 6,
+      "doctor": "aea",
+      "paciente": "aaaaa",
+      "estado": true
+    }
+  ]
+}
