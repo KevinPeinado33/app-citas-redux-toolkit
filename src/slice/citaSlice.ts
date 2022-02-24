@@ -41,7 +41,7 @@ export const citaSlice = createSlice({
             state.loading = false        
             state.citas = state.citas.map( 
                 (x) => ( x.id === action.payload.id ) 
-                            ? x = action.payload
+                            ? x = { ...x, ...action.payload }
                             : x
             )
         },
