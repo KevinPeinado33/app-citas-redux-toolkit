@@ -1,6 +1,11 @@
 import { CitaInterface } from '../interfaces/citaInterfaces';
 
-export const Cita = ({id, doctor, paciente, estado}: CitaInterface) => (
+export const Cita = ({
+    id, 
+    doctor, 
+    paciente, 
+    estado 
+}: CitaInterface) => (
     <tr >
 
         <td>{ id }</td>
